@@ -11,6 +11,10 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "ruyi2": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源2"
+    },    
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
